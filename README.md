@@ -1,4 +1,14 @@
 rsendmail
 =========
 
-R smtp sendmail method using rJava and javamail.  Allows for to and from emails address as well as subject and message body.
+R smtp sendmail method using rJava and javamail.  
+
+<ol>
+  <li>to addresses,</li>
+  <li>from address,</li> 
+  <li>subject,</li>
+  <li>message body, and</li>
+  <li>signature.</li>
+</ol>
+
+<p> Requires a smtp server</p>
