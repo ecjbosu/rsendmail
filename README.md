@@ -3,7 +3,7 @@ rsendmail
 
 R smtp sendmail method using rJava and javamail.  
 
-<ol>
+<ol>Parameters include: 
   <li>to addresses,</li>
   <li>from address,</li> 
   <li>subject,</li>
